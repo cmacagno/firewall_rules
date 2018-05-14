@@ -1,0 +1,9 @@
+directory.services.live.com.akadns.net
+bing.com
+pipe.cloudapp.aria.akadns.net
+skyapi.skyprod.akadns.net
+a-0011.a-msedge.net
+costco.com
+craigslist.org
+*.craigslist.org
+reno.craigslist.org
